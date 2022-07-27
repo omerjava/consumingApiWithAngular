@@ -32,7 +32,7 @@
           },
           "configurations": {
             "github-pages": {
-              "baseHref": "https://omerjava.github.io/consumingApiWithAngular/"
+              "baseHref": "/consumingApiWithAngular/"
             },
             "production": {
               "budgets": [
