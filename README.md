@@ -1,5 +1,10 @@
 # ConsumingApiWithAngular
 
+## About
+
+This project consumes [Random user Api](https://randomuser.me) and uses [Leaflet open-source JavaScript library
+for mobile-friendly interactive maps](https://leafletjs.com).
+
 ## Reference
 
 This project is developed based on [Angular Course | Consuming API's with Angular](https://www.youtube.com/watch?v=05mhsj4XPso) by GetArrays.
