@@ -3,7 +3,8 @@
 ## About
 
 This project consumes [Random user Api](https://randomuser.me) and uses [Leaflet open-source JavaScript library
-for mobile-friendly interactive maps](https://leafletjs.com).
+for mobile-friendly interactive maps](https://leafletjs.com). It brings users info as a list and provides detailed 
+user info with user's location at world map.
 
 ## Reference
 
