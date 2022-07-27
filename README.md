@@ -1,8 +1,17 @@
 # ConsumingApiWithAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+## About
+
+This project consumes [Random user Api](https://randomuser.me) and uses [Leaflet open-source JavaScript library
+for mobile-friendly interactive maps](https://leafletjs.com).
+
+## Reference
+
+This project is developed based on [Angular Course | Consuming API's with Angular](https://www.youtube.com/watch?v=05mhsj4XPso) by GetArrays.
 
 ## Development server
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
