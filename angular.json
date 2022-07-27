@@ -14,7 +14,6 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "outputPath": "docs",
-            "baseHref": "https://omerjava.github.io/consumingApiWithAngular/",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -32,6 +31,9 @@
             ]
           },
           "configurations": {
+            "github-pages": {
+              "baseHref": "https://omerjava.github.io/consumingApiWithAngular/"
+            },
             "production": {
               "budgets": [
                 {
