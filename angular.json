@@ -13,7 +13,8 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/consuming-api-with-angular",
+            "outputPath": "docs",
+            "baseHref": "https://omerjava.github.io/consumingApiWithAngular/",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
