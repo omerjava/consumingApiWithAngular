@@ -2,7 +2,7 @@
 
 ## Reference
 
-This project is developed based on [this tutorial.](https://www.youtube.com/watch?v=05mhsj4XPso)
+This project is developed based on [Angular Course | Consuming API's with Angular](https://www.youtube.com/watch?v=05mhsj4XPso) by GetArrays.
 
 ## Development server
 
